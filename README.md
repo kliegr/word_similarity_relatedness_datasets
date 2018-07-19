@@ -7,9 +7,9 @@ This webpage provides a collection of datasets for benchmarking word similarity 
 Link to the paper: [Antonyms are similar: Towards paradigmatic association approach to rating similarity in SimLex-999 and WordSim-353](https://www.sciencedirect.com/science/article/pii/S0169023X17301325)
 ##   SimLex999-Czech
 
- * [simlex999cs.csv](simlex999cs.csv) word pairs [original SimLex-999 guidelines - CZECH version](simlex999cs_guidelines.txt)
- * [wordlex999cs.csv](wordlex999cs.csv) - SimLex-999 word pairs - annotated according to the [WordSim353 guidelines - CZECH version](wordlex999cs_guidelines.txt).
- * [winlex999cs.csv](winlex999cs.csv) SimLex-999 word pairs reannotated according to the [word interchangeability guidelines - CZECH version](winlex999cs_guidelines.txt) .
+ * [simlex999cs.csv](simlex999cs.csv): SimLex-999 word pairs reannotated according to the [original SimLex-999 guidelines - CZECH version](simlex999cs_guidelines.txt)
+ * [wordlex999cs.csv](wordlex999cs.csv): SimLex-999 word pairs reannotated according to the [WordSim353 guidelines - CZECH version](wordlex999cs_guidelines.txt).
+ * [winlex999cs.csv](winlex999cs.csv): SimLex-999 word pairs reannotated according to the [word interchangeability guidelines - CZECH version](winlex999cs_guidelines.txt) .
  
  ## WordSim353 reannotated
  
