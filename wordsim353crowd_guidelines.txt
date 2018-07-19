@@ -1,0 +1,27 @@
+###Overview
+Estimation of word similarity
+-----------------------------
+Hello,
+
+We kindly ask you to assist us in a psycholinguistic experiment, 
+aimed at estimating the similarity of various words in the English 
+language. The purpose of this experiment is to assign similarity scores 
+to pairs of words, so that machine learning algorithms can be 
+subsequently trained and adjusted using human-assigned scores.
+
+Below is a list of pairs of words. For each pair, please assign 
+a numerical similarity score between 0 and 10 (0 = words are totally 
+unrelated, 10 = words are VERY closely related). By definition, 
+the similarity of the word to itself should be 10. You may assign 
+fractional scores (for example, 7.5).
+
+### Specific instructions:
+
+1) If you do not know the meaning of a particular word - please use 
+   a dictionary, or ask a native English speaker.
+
+2) When estimating similarity of antonyms, consider them "similar"
+   (i.e., belonging to the same domain or representing features of the same 
+   concept), rather than "dissimilar".
+
+Thank you for your assistance ! 

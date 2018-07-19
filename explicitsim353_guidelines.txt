@@ -1,0 +1,98 @@
+###Overview
+Estimation of word similarity
+-----------------------------
+Hello,
+
+We kindly ask you to assist us in a psycholinguistic experiment, aimed at estimating the 
+similarity of various words in the English language. The purpose of this experiment is 
+to assign similarity scores to pairs of words, so that machine learning algorithms can be
+subsequently trained and adjusted using human-assigned scores.
+
+You will be given a list of pairs of words. For each pair, please assign a numerical 
+similarity score between 0 and 10 (0 = words have no similarity, 10 = words have very HIGH 
+similarity).
+
+By definition,  the similarity of the word to itself should be 10. You may assign 
+fractional scores (for example, 7.5).
+
+###Instructions
+
+The goal is to annotate pairs of words with a similarity score.
+
+Similarity score can range from 0 to 10, where 0 indicates that two words express two 
+completely different "things". Value 10 indicates that the two words express the same 
+"thing"  (i.e. concept). You may assign fractional scores (for example, 7.5).
+
+When assigning the similarity score, it is necessary to realize that there are also other 
+types of relations between words distinct from the "similarity" relation.
+
+By similarity, we understand the degree of similarity of concepts that the words convey.
+Similarity should not be confused with relatedness.
+
+Make sure to understand the definition of similarity before you start the task!
+
+###What is word SIMILARITY?
+
+The more similar the words are, the more in common the concepts behind the words have.
+
+The following relations between words contribute to word similarity:
+
+* words have similar meaning (synonymy), e.g. "car", "vehicle"
+* words have opposite meaning (antonymy),  e.g. "light", "dark"
+* one word is a super term of the other (hyperonymy), e.g. "animal", "monkey"
+* words share a super term, e.g. "dog" and "cat"
+
+####What is NOT word similarity?
+
+SIMILARITY should not be confused with RELATEDNESS.
+
+Common types of relatedness between words:
+* relation between the part and the whole (meronymy), e.g. "car", "wheel"
+* words occur frequently together but their meaning is different (association), 
+e.g. "pencil", "paper"
+* other types of relation between words, which are not listed in section 
+"What is word SIMILARITY".
+
+####Example
+
+Consider the following pair of words:
+word 1:  paper, word 2: pencil
+
+Paper and pencil are closely related through association: these words frequently appear
+together. However, since we measure similarity not relatedness, we need to adjust our mind 
+to ignore the association relation when assigning the similarity score.
+
+Will we then assign similarity 0?
+
+Surely not.  There is also one of the similarity relations between the two words. Will you 
+guess which one is that?
+
+The two words share a common super term:  both are stationary products.
+
+Similarity for this pair will thus be greater than 0 and smaller than 10. In order not to 
+bias you, we will not give an example of the specific desirable similarity score.
+
+####What resources to use
+
+You are encouraged to use any on-line resources which can help you clarify the meaning of 
+the words. The recommended resources are dictionaries and Wikipedia.
+
+####Additional Rules and Tips
+
+* If you do not understand  a specific word, use Google to find its meaning.
+* The similarity of the word to itself should be 10.
+* You may assign fractional scores (for example, 7.5).
+
+###Summary
+   
+This task asks you to rate similarity of words.  Similarity should NOT be confused with 
+RELATEDNESS. We have a strict definition of similarity that requires you to pay close 
+attention to details according to our terms in sections "What is word SIMILARITY?" and 
+"What is NOT word similarity?". Please also review the Example section before starting 
+the task.
+
+
+###Thank You!
+
+The similarity scores that you provide in this task will help researchers to develop new 
+algorithms for estimating word similarity. Thank you for your hard work!

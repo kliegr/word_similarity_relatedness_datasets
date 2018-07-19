@@ -1,0 +1,72 @@
+
+Vážený respondente,  
+
+rádi bychom Vás požádali o účast v psycholingvistickém experimentu,  který je zaměřen na odhad vzájemné zaměnitelnosti různých českých slov.   
+
+Obdržíte seznam slovních párů. Vzájemnou zaměnitelnost slov v páru prosím ohodnoťte číselným skóre mezi nulou a desítkou (0 = slova nemohou být zaměněna, 10 = slova mohou být zaměněna).
+
+
+Instrukce pro vyplnění
+
+Co je zaměnitelnost slov?
+
+Zaměnitelností slov rozumíme stupeň, ve kterém jedno slovo může být nahrazeno druhým slovem v náhodně zvolené větě bez změny významu.
+
+    Skóre by mělo být proporcionální změně významu.
+    Jestliže se význam nemění, slova mají zaměnitelnost 10.
+    Pokud věta nedává smysl, slova mají zaměnitelnost 0.
+
+
+Příklady
+
+Příklad 1: "auto" vs "vozidlo"
+
+Slovo "auto" může nahradit slovo "vozidlo" téměř v každé větě:
+
+Jan zaparkoval své auto na ulici. -> Jan zaparkoval své vozidlo na ulici.
+
+
+Příklad 2: "světlo" vs "tma"
+
+Tato slova mohou být zaměněna, ale dochází ke změně významu.
+
+Nemám rád světlo. -> Nemám rád tmu.
+
+V některých větách není nahrazení možné: Zapněte tmu!
+
+Skóre zaměnitelnosti proto bude nižší než u "auto" vs "vozidlo".
+
+
+Příklad 3:  "auto" vs "kolo"
+
+Tato slova mají k sobě vztah, ale znamenají odlišné věci. Po nahrazení slova "auto" slovem "stěrač" by většina vět nedávala smysl.
+
+"Jan zaparkoval auto na ulici." vs "Jan zaparkoval stěrač na ulici."
+
+
+Příklad 4:  "dokončit" vs "soutěžící"
+
+Zatímco tato slova se spolu často vyskytují, znamenají dvě nesouvisející věci. Zkuste si nahradit slovo “dokončit” slovem “soutěžící” v následujících dvou větách:
+
+    Běžci dokončili závod.
+    Dokonči přípravu toho jídla!
+
+Zaměnitelnost těchto slov je proto velmi nízká.
+
+
+Jaké zdroje je možné použít
+
+Doporučujeme vám použít libovolné on-line zdroje, které vám pomohou ujasnit význam slov v párech. Doporučené zdroje jsou slovníky a Wikipedia.
+
+Další pravidla a tipy
+
+    Pokud nerozumíte konkrétnímu slovu, použijte internetový vyhledávač k určení jeho významu.
+    Zaměnitelnost slova sama k sobě by měla být 10.
+    PEČLIVĚ SI PŘEČTĚTE PŘÍKLADY
+
+
+Děkujeme
+
+Skóre zaměnitelnosti slov poslouží pro vývoj nových algoritmů pro zpracování textu.
+
+Děkujeme za pečlivou práci!

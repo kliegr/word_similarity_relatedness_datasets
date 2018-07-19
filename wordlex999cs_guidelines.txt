@@ -1,0 +1,25 @@
+Vážený respondente,  
+rádi bychom Vás požádali o asistenci v psycholingvistickém experimentu,  
+který je zaměřen na odhad vzájemné podobnosti různých českých slov. Účelem tohoto  
+projektu je přiřadit párům slov skóre vyjadřující jejich vzájemnou podobnost. Tato  
+skóre poslouží trénování a vylepšování algoritmů strojového učení tak,  
+aby co nejlépe napodobily lidský úsudek.  
+ 
+Níže je seznam slovních párů. Vzájemnou podobnost každého páru prosím ohodnoťte číselným skóre  
+mezi nulou a desítkou (0 = slova spolu vůbec nesouvisejí, 10 = slova spolu VELMI úzce souvisejí).  
+Z definice by podobnost jednoho slova se sebou samým měla být 10. Můžete používat i desetinná čísla
+(např. 7,5).
+ 
+Instrukce pro vyplnění
+1) Pokud neznáte význam některého slova, prosím, podívejte se do slovníku nebo konzultujte jiného  
+rodilého mluvčího. Pokud ve slovech navzdory našemu úsilí objevíte nějakou pravopisnou chybu, ignorujte ji prosím.
+2) Prosím NEKONZULTUJTE své přátele ohledně podobnostních skóre - je velice důležité, aby přidělená skóre  
+byla nezávislá na úsudcích dalších osob.  
+3) Antonyma (tj. slova s protikladnými významy) posuzujte spíš jako "vzájemně podobná", tj. náležející  
+do stejné významové domény nebo reprezentující vlastnosti téhož konceptu, spíš než jako "vzájemně nepodobná".
+ 
+Pokud máte nějaké otázky nebo potřebujete další upřesnění, případně pokud máte nějaký návrh,
+neváhejte nás prosím kontaktovat.  
+ 
+Děkujeme Vám za Vaši ochotu!  
+ 

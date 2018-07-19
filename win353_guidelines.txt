@@ -1,0 +1,64 @@
+###Overview
+Estimation of word interchangeability
+-------------------------------------
+Hello,
+
+We kindly ask you to assist us in a psycholinguistic experiment, aimed at estimating the 
+interchangeability of various words in the English language. 
+
+You will be given a list of pairs of words. For each pair, please assign a numerical 
+interchangeability score between 0 and 10 (0 = words cannot be interchanged, 10 = words 
+can be interchanged).
+
+###What is word interchangeability?
+By interchangeability of two words, we understand the degree with which one word can be 
+replaced by the other word in a randomly chosen sentence without a change in the meaning. 
+
+* The score should be proportional to the change in meaning. 
+* If the meaning does not  change the words have interchangeability 10. 
+* If the sentence does no longer make sense, the words have interchangeability 0.
+
+###Examples
+Example 1: "car" vs "vehicle"
+Word "car" can be replaced by word "vehicle" almost in any sentence:
+John parked his car on the street. -> John parked his vehicle on the street.
+
+Example 2 "light" vs "dark"
+
+These words can be interchanged, but there is a change in meaning.
+His dad has light green eyes. -> His dad has dark green eyes.
+
+In some sentences, the replacement is not possible: Switch on the light!
+
+The interchangeability score will thus be lower than for "car" and "vehicle".
+
+Example 3:  "car" vs "wheel"
+While these words are related, they convey different things. If word "car" is replaced by 
+word "wheel",  most  sentences would not make much sense.
+
+Consider: "John parked his car on the street." vs  "John parked his wheel on the street."
+
+Example 4:  "finish" vs "contestant"
+While these words often cooccur together, they mean two unrelated things.
+
+Try replacing finish with contestant in the following two sentences:
+The runners were close to the finish line. 
+Finish your meal!
+
+The interchangeability of these words is thus very low.
+
+####What resources to use
+
+You are encouraged to use any on-line resources which can help you clarify the meaning of 
+the words. The recommended resources are dictionaries and Wikipedia.
+
+####Additional Rules and Tips
+
+* If you do not understand  a specific word, use Google to find its meaning.
+* The similarity of the word to itself should be 10.
+* MAKE SURE TO CAREFULLY READ THE EXAMPLES.
+
+###Thank You!
+
+The interchangeability scores that you provide in this task will help researchers to 
+develop new algorithms for text processing. Thank you for your hard work!
